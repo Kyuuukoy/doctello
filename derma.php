@@ -15,7 +15,7 @@
 			<div id="titlebox">
 				<h1 id="titlebox_title">Private Dermatology MD</h1>
 				<p id="titlebox_description">
-					Sed quis volutpat ligula. Phasellus commodo cursus quam vitae semper. Vivamus mi est, eleifend nec facilisis a, facilisis et est. Mauris faucibus convallis massa, et iaculis quam dignissim sit amet.
+					Private Dermatology MD Medical and Cosmetic Skin Center is backed by more than 31years of skin care experience. We use tested and proven gold standards in Dermatology.
 				</p>
 
 				<div class="hours-card" style="background: var(--bg-surface); padding: 1.25rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); margin-bottom: 1.5rem;">
@@ -23,7 +23,7 @@
 					<p class="categorybox_details_openhours"><strong>SUN:</strong> CLOSED</p>
 					<p class="categorybox_details_openhours"><strong>MON - SAT:</strong> 9:00 AM - 6:00 PM</p>
 					<p class="categorybox_details_address" style="margin-top: 0.75rem;">
-						📍 Montebello Rd., Apas, Cebu City, 6000 Cebu
+						📍 Oakridge Business Park, A. S. Fortuna St, Mandaue, 6014 Cebu
 					</p>
 				</div>
 
@@ -42,7 +42,8 @@
 		<section class="section-spacing">
 			<h2>Location Map</h2>
 			<div id="mapsbox" style="margin-top: 1rem;">
-				<img src="resources/derma-map.jpg" id="mapsbox_image" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: var(--radius-lg); border: 1px solid var(--border-color);" alt="Clinic Map Location">
+				<!-- <img src="resources/derma-map.jpg" id="mapsbox_image" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: var(--radius-lg); border: 1px solid var(--border-color);" alt="Clinic Map Location"> -->
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d981.2452826642763!2d123.91905110574167!3d10.343393629266547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a998e74ab41cb3%3A0xf1bcdc3b09575c72!2sPrivate%20Dermatology%20MD!5e0!3m2!1sen!2sph!4v1790332465082!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 			</div>
 		</section>
 
