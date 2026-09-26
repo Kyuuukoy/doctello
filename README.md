@@ -20,4 +20,4 @@ A first year college project into the basic introduction of web development. Doc
 3. Go to localhost:[port-number]/phpmyadmin in the browser.
 4. Create an empty database named "loginsystem".
 5. Import the "loginsystem.sql" database from the db folder into the newly created blank database. 
-6. Open project in browser: localhost:port-number/doctello
+6. Open project in browser: localhost:[port-number]/doctello
