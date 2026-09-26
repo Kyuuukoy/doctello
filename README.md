@@ -15,6 +15,9 @@ A first year college project into the basic introduction of web development. Doc
 - MySQL
 
 # How to use:
-1. Clone repository into htddocs folder.
-2. Start Apache and MySQL in XAMPP Control Panel.
-3. Open project in browser: localhost:port-number/doctello
+1. Clone repository https://github.com/Kyuuukoy/doctello.git into htddocs folder.
+2. Start Apache and MySQL on the XAMPP control panel.
+3. Go to localhost:[port-number]/phpmyadmin in the browser.
+4. Create an empty database named "loginsystem".
+5. Import the "loginsystem.sql" database from the db folder into the newly created blank database. 
+6. Open project in browser: localhost:port-number/doctello
